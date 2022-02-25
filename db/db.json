@@ -1,22 +1,19 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text"
+      "title": "laundry",
+      "text": "do it ",
+      "id": "0"
     },
     {
-      "title": "Test Title2",
-      "text": "Test text2"
+      "title": "dish ",
+      "text": "wash dises",
+      "id": "1"
     },
     {
-      "title": "Test Title2",
-      "text": "Test text2",
+      "title": "dinner",
+      "text": "tomorrow 5pm",
       "id": "2"
-    },
-    {
-      "title": "Test Title3",
-      "text": "Test text3",
-      "id": "3"
     }
   ]
 }
